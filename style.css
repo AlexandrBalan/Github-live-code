@@ -1,0 +1,17 @@
+p {
+    color: lightgreen;
+    text-decoration: underline;
+    font-size: 20px;
+}
+li {
+    color: plum;
+}
+h1 {
+    color: rgb(131, 131, 233);
+}
+h2 {
+    color: ORANGE;
+}
+body {
+    background-color: LIGHTYELLOW;
+}
