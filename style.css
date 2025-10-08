@@ -21,3 +21,8 @@ body {
     font-weight: bold;
     color: red;
 }
+
+.favorite {
+    color: blue;
+    font-weight: bolder;
+}
